@@ -1,0 +1,21 @@
+# Список публичных API для тестирования
+https://httpbin.org/get
+https://jsonplaceholder.typicode.com/posts/1
+https://api.github.com
+https://catfact.ninja/fact
+https://api.agify.io?name=alex
+https://api.coindesk.com/v1/bpi/currentprice.json
+https://dog.ceo/api/breeds/image/random
+https://api.spacexdata.com/v4/launches/latest
+https://api.nationalize.io?name=alex
+https://api.publicapis.org/entries
+https://api.zippopotam.us/us/90210
+https://api.weather.gov/points/38.8894,-77.0352
+https://api.kanye.rest
+https://baconipsum.com/api/?type=meat-and-filler
+https://api.chucknorris.io/jokes/random
+https://www.boredapi.com/api/activity
+https://datausa.io/api/data?drilldowns=Nation&measures=Population
+https://api.genderize.io?name=alex
+https://openlibrary.org/books/OL7353617M.json
+https://api.coinbase.com/v2/currencies
